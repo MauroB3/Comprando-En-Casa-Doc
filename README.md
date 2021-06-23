@@ -19,4 +19,5 @@ La actual situación de aislamiento obligatorio dificulta el acceso a los comerc
 # Live demo
 
 El proyecto se encuentra deployado en heroku y se puede acceder al mismo a traves del siguiente link:
+
 [https://desapp-grupon-frontend.herokuapp.com](https://desapp-grupon-frontend.herokuapp.com)
